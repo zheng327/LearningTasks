@@ -1,12 +1,17 @@
 # LearningTasks
 ## 学习任务
-### C++
+<details>
+
+<summary>C++</summary>
+
 1. 项目 1
    1. 项目 A
    2. 项目 B
 2. 项目 2
    1. 项目 A
-   2. 项目 B
+   2. 项目 B 
+
+</details>  
 
 ### 数据结构
 1. 项目 1
